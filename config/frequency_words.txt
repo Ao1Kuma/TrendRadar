@@ -5,16 +5,10 @@ ChatGPT
 !广告
 !培训
 
-英超
-西甲
-德甲
-
 穆里尼奥
 
 世界杯
 欧洲杯
-亚洲杯
-
 
 iPhone
 vivo
@@ -24,20 +18,15 @@ vivo
 美股
 上证
 深证
-涨跌
+涨
+跌
 !预测
-
-大疆
-DJI
 
 机器人
 
-字节
-bytedance
-张一鸣
-
 特斯拉
 马斯克
+xAI
 
 微软
 Microsoft
@@ -51,7 +40,6 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -76,10 +64,8 @@ ai
 
 美国
 日本
-韩国
 
 芯片
-光刻机
 
 科技
 
