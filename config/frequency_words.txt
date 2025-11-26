@@ -9,7 +9,6 @@
 
 字节
 bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -40,6 +39,7 @@ iphone
 ipad
 mac
 ios
+apple
 
 vivo
 iqoo
@@ -48,9 +48,6 @@ iqoo
 ai
 !gai
 人工智能
-
-自动驾驶
-
 机器人
 
 国产
@@ -60,8 +57,6 @@ ai
 
 美国
 日本
-
-芯片
 
 科技
 核能
