@@ -52,8 +52,11 @@ ai
 
 国产
 中国
+China
+香港
 上海
-教育
+HongKong
+Shanghai
 
 美国
 日本
