@@ -2,14 +2,12 @@
 上证
 美股
 纳斯达克
-涨
-跌
+标普
+ETF
+!课程
 !印度
 !预测
 !广告
-
-字节
-bytedance
 
 特斯拉
 马斯克
@@ -38,13 +36,11 @@ Anthropic
 
 iphone
 ipad
-mac
 ios
 apple
 
 vivo
 iqoo
-+发布
 
 ai
 !gai
@@ -61,6 +57,9 @@ Shanghai
 
 美国
 日本
+欧洲
+英国
+!印度
 
 科技
 核能
@@ -72,3 +71,6 @@ Shanghai
 宇宙
 飞船
 航空
+
+英超
+穆里尼奥
